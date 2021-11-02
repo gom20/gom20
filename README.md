@@ -10,3 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hi ! I'm here
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={gom20})](https://solved.ac/{gom20})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={gom20})](https://solved.ac/{gom20})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={gom20})](https://solved.ac/{gom20})
