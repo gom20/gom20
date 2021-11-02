@@ -10,11 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hi ! I'm here
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MiyoungKo%20%20&height=200&fontSize=100)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={gom20})](https://solved.ac/{gom20})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={gom20})](https://solved.ac/{gom20})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={gom20})](https://solved.ac/{gom20})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gom20)](https://solved.ac/gom20)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gom20)](https://solved.ac/gom20)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=gom20)](https://solved.ac/gom20)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
