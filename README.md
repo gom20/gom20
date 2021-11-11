@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Continuous%20Learning&fontSize=70&fontColor=grey&desc=as%20a%20Java%20backend%20developer&descAlignY=80&descAlign=75)
 
 ## 👋 Hi, I’m gom20
-Throughout my seven years as a software engineer for Samsung SDS, I worked on various projects such as developing Smart TV web applications, web servers, and maintaining the semiconductor manufacturing system. My job on this last project was to run a system that analyzed the amount of material used in the semiconductor production process, where I mainly monitored the system and modified server code. When there were user requests, I wrote SQL queries and extracted data accordingly. It was a good opportunity to deal with a large amount of data based on the Oracle Exadata database. 
+Throughout my seven years as a software engineer for Samsung SDS, I worked on various projects such as developing Smart TV web applications, web servers, and maintaining the semiconductor manufacturing system. My job on this last project was to run a system that analyzed the amount of material used in the semiconductor production process, where I mainly monitored the system and modified server code. When there were user requests, I wrote SQL queries and extracted data accordingly. It was a good opportunity to deal with a large amount of data based on the Oracle Exadata database.
+
 Now, I am currently studying what I have wanted to learn and looking for a job.
 
 ### :computer: Technical Skills
