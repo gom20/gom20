@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Better%20late%20than%20never&fontSize=70&fontColor=grey&desc=&descAlignY=80&descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Many%20drops%20make%20a%20shower&fontSize=50&fontColor=grey)
+<!-- &desc=&descAlignY=80&descAlign=75 -->
 
 ## 👋 Hi, I’m gom20
 Throughout my seven years as a software engineer for Samsung SDS, I worked on various projects such as developing Smart TV web applications, web servers, and maintaining the semiconductor manufacturing system. My job on this last project was to run a system that analyzed the amount of material used in the semiconductor production process, where I mainly monitored the system and modified server code. When there were user requests, I wrote SQL queries and extracted data accordingly. It was a good opportunity to deal with a large amount of data based on the Oracle Exadata database.
