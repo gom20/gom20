@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgom20%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Many%20drops%20make%20a%20shower&fontSize=50&fontColor=grey)
 <!-- &desc=&descAlignY=80&descAlign=75 -->
 
