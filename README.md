@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Many%20drops%20make%20a%20shower&fontSize=50&fontColor=99CCFF)
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Many%20drops%20make%20a%20shower&fontSize=50&fontColor=99CCFF) -->
 <!-- &desc=&descAlignY=80&descAlign=75 -->
 
 ## 👋 Hi, I’m gom20
