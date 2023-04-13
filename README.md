@@ -16,7 +16,7 @@ Throughout my seven years as a software engineer, I worked on various projects s
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
 
 ##### IDE
-<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"> 
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"> 
 
 ##### VCS
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"> 
